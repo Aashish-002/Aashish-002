@@ -1,5 +1,4 @@
 
-![Header](./icons/Web Developer.jpg)
 
   <a class="display:flex;align-items:center;justify-content:center;" href="https://[your-portfolio-link]">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
@@ -23,12 +22,10 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 <details>
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
 
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/prasanthtech12)
 
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/0xprasanth/0xprasanth/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
 
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -43,7 +40,6 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 </details>
 
 <summary>
-  <h4> <img align="center" src="https://github.com/0xprasanth/0xprasanth/blob/main/icons/techstack.gif" width="29"/> Programming Languages</h4>
   </summary>
 
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -58,21 +54,22 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <summary>
   <h2 >
-    <img src="https://github.com/0xprasanth/0xprasanth/blob/main/icons/stats.gif" width="32" /> Stats
+<!--     <img src="https://github.com/0xprasanth/0xprasanth/blob/main/icons/stats.gif" width="32" /> Stats -->
   </h2>
 </summary>
 
 <div align="left" style="padding:20px; margin-bottom:20px;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=0xprasanth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats" style="padding:10px;" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=0xprasanth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats" style="padding:10px;" /> -->
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xprasanth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="padding:10px;" />
+ 
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xprasanth&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="padding:10px;" />
+  
+  <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xprasanth&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="padding:10px;" />
   <!-- GitHub graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xprasanth&theme=tokyo-night" alt="GitHub graph" style="padding:10px;" />
+  <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xprasanth&theme=tokyo-night" alt="GitHub graph" style="padding:10px;" />
 </div>
 
 
